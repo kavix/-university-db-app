@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class UniversityDbAppApplication {
 
 	public static void main(String[] args) {
+		/ss
 		SpringApplication.run(UniversityDbAppApplication.class, args);
 	}
 
