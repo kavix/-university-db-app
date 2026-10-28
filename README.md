@@ -2,6 +2,8 @@
 
 Spring Boot 4 application for the university database lab. The project uses a schema-first MySQL database, JPA entities, Spring Data repositories, and read-only REST endpoints.
 
+See [SUBMISSION_CHECKLIST.md](SUBMISSION_CHECKLIST.md) for the PDF contents and screenshots to capture.
+
 ## One-time setup
 
 ### 1. Install prerequisites
